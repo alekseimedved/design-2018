@@ -9,6 +9,8 @@
 
 ### Диаграмма классов
 * [Ссылка на код UML для диаграммы классов](https://github.com/alekseimedved/design-2018/blob/master/uml.txt)
-![](https://github.com/KolovMaksim/alekseimedved/design-2018/blob/master/лаб1.png)
+![](https://github.com/alekseimedved/design-2018/blob/master/лаб1.png)
 
-Диаграмма прецедентов
+### Диаграмма прецедентов
+* [Ссылка на IDEF0 модель в формате .rsf](https://github.com/alekseimedved/design-2018/blob/master/прец.txt)
+![](https://github.com/alekseimedved/design-2018/blob/master/прец.png)
