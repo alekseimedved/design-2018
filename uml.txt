@@ -4,9 +4,9 @@ skinparam class {
     ArrowColor Black
     BorderColor Black
 }
-class "Пекарь" as Пекарь {
- Духовка
-Хлеб Печь (Тесто, Рецепт)
+class "РџРµРєР°СЂСЊ" as РџРµРєР°СЂСЊ {
+ Р”СѓС…РѕРІРєР°
+РҐР»РµР± РџРµС‡СЊ (РўРµСЃС‚Рѕ, Р РµС†РµРїС‚)
 }
 hide circle
 @enduml
