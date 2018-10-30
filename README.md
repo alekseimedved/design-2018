@@ -12,3 +12,16 @@
 ### Диаграмма прецедентов
 * [Ссылка на код UML для диаграммы прецедентов](https://github.com/alekseimedved/design-2018/blob/master/прец.txt)
 ![](https://github.com/alekseimedved/design-2018/blob/master/прец.png)
+
+
+## Лабораторная работа 2
+
+
+
+
+
+
+
+
+
+## Лабораторная работа 3
