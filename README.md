@@ -12,5 +12,5 @@
 ![](https://github.com/alekseimedved/design-2018/blob/master/лаб1.png)
 
 ### Диаграмма прецедентов
-* [Ссылка на IDEF0 модель в формате .rsf](https://github.com/alekseimedved/design-2018/blob/master/прец.txt)
+* [Ссылка на код UML для диаграммы прецедентов](https://github.com/alekseimedved/design-2018/blob/master/прец.txt)
 ![](https://github.com/alekseimedved/design-2018/blob/master/прец.png)
