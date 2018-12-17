@@ -24,3 +24,6 @@
 ![](https://github.com/alekseimedved/design-2018/blob/master/laba2c.png)
 
 ## Лабораторная работа 4
+
+Определение требований к модели
+* фыв
