@@ -40,6 +40,7 @@
 * Декомпозиция блока А2: "Анализ проблемы"
 ![](https://github.com/alekseimedved/design-2018/blob/master/kura2.png)
 * Декомпозиция блока А3: "Исправление проблемы"
+in progress
 ![](https://github.com/alekseimedved/design-2018/blob/master/kura3.png)
 * Декомпозиция блока А4: "Проверка работоспособности ПК"
 ![](https://github.com/alekseimedved/design-2018/blob/master/kura4.png)
@@ -61,6 +62,6 @@
   * Репозиторий кода на сервере.
   
 ### Разработка диаграмм в RAMUS - декомпозиция всех автоматизируемых блоков в DFD
-
+in progress
 
 
