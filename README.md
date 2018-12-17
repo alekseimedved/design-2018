@@ -34,7 +34,9 @@
 ### Разработка диаграмм в RAMUS
 
 [Скачать файл](https://github.com/alekseimedved/design-2018/blob/master/kurs.rsf)
+* Контекстная диаграмма "Техническое обслуживание аудиторий"
 ![](https://github.com/alekseimedved/design-2018/blob/master/kur1.png)
-
+* Декомпозиция диаграммы А0
+![](https://github.com/alekseimedved/design-2018/blob/master/kur2.png)
 
 
