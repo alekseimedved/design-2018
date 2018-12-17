@@ -33,10 +33,20 @@
 
 ### Разработка диаграмм в RAMUS
 
-[Скачать файл](https://github.com/alekseimedved/design-2018/blob/master/kurs.rsf)
 * Контекстная диаграмма "Техническое обслуживание аудиторий"
 ![](https://github.com/alekseimedved/design-2018/blob/master/kur1.png)
 * Декомпозиция диаграммы А0
 ![](https://github.com/alekseimedved/design-2018/blob/master/kur2.png)
+* Декомпозиция блока А2: "Анализ проблемы"
+![](https://github.com/alekseimedved/design-2018/blob/master/kur3.png)
+
+
+[Скачать файл](https://github.com/alekseimedved/design-2018/blob/master/kurs.rsf)
+
+## Лабораторная работа 5
+
+### Определение основных средств автоматизации
+* asd
+** asdf
 
 
