@@ -17,10 +17,10 @@
 ## Лабораторная работа 2
 ### IDEF0 модель
 * [Ссылка на IDEF0 модель в формате .rsf](https://github.com/alekseimedved/design-2018/blob/master/pdc.rsf)
-![](https://github.com/alekseimedved/design-2018/blob/master/c1.png)
+![](https://github.com/alekseimedved/design-2018/blob/master/laba2a.png)
 ### PDC модель
-![](https://github.com/alekseimedved/design-2018/blob/master/c2.png)
+![](https://github.com/alekseimedved/design-2018/blob/master/laba2b.png)
 ### DFD Plan
-![](https://github.com/alekseimedved/design-2018/blob/master/c3.png)
+![](https://github.com/alekseimedved/design-2018/blob/master/laba2c.png)
 
 ## Лабораторная работа 4
