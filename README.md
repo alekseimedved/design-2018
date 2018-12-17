@@ -33,8 +33,8 @@
 
 ### Разработка диаграмм в RAMUS
 
-[Скачать файл](https://github.com/alekseimedved/design-2018/blob/master/xd.rsf)
-
+[Скачать файл](https://github.com/alekseimedved/design-2018/blob/master/kurs.rsf)
+![](https://github.com/alekseimedved/design-2018/blob/master/kurs1.png)
 
 
 
