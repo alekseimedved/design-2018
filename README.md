@@ -64,16 +64,16 @@
 
 ## Лабораторная работа 6
 ### Завершение идентификации всех потоков
-* Построение ERD (диаграммы классов без атрибутов) для всех потоков 
+* Построение ERD (диаграммы классов без атрибутов) для всех потоков (in progress)
 [Код UML для потоков](https://github.com/alekseimedved/design-2018/blob/master/potok.txt)
 ### Завершение идентификации всех ролей
-* Построение ERD (диаграммы классов без атрибутов) для всех ролей
+* Построение ERD (диаграммы классов без атрибутов) для всех ролей (in progress)
 [Код UML для ролей](https://github.com/alekseimedved/design-2018/blob/master/role.txt)
 ### Завершение идентификации всех модулей
-* Построение ERD (диаграммы классов без атрибутов) для всех модулей 
+* Построение ERD (диаграммы классов без атрибутов) для всех модулей (in progress)
 [Код UML для модулей](https://github.com/alekseimedved/design-2018/blob/master/module.txt)
 
 
 ## Курсовой проект
 
-[Курсовая работа](https://github.com/alekseimedved/design-2018/blob/master/kursov.docx)
+[Курсовая работа (in progress)](https://github.com/alekseimedved/design-2018/blob/master/kursov.docx)
