@@ -33,19 +33,14 @@
 
 ### Разработка диаграмм в RAMUS
 
-* Контекстная диаграмма "Техническое обслуживание аудиторий"
-![](https://github.com/alekseimedved/design-2018/blob/master/kur1.png)
-* Декомпозиция диаграммы А0
-![](https://github.com/alekseimedved/design-2018/blob/master/kur2.png)
-* Декомпозиция блока А2: "Анализ проблемы"
-![](https://github.com/alekseimedved/design-2018/blob/master/kura2.png)
-* Декомпозиция блока А3: "Исправление проблемы"
-in progress
-![](https://github.com/alekseimedved/design-2018/blob/master/kura3.png)
-* Декомпозиция блока А4: "Проверка работоспособности ПК"
-![](https://github.com/alekseimedved/design-2018/blob/master/kura4.png)
+* Контекстная IDEF0 диаграмма "Техническое обслуживание аудиторий"
+![](https://github.com/alekseimedved/design-2018/blob/master/01_A0.png)
+* Декомпозиция IDEF0 диаграммы А0
+![](https://github.com/alekseimedved/design-2018/blob/master/02_A0.png)
+* Декомпозиция IDEF0 блока А2: "Обработка заявки"
+![](https://github.com/alekseimedved/design-2018/blob/master/04_A2.png)
 
-[Скачать файл](https://github.com/alekseimedved/design-2018/blob/master/kurs.rsf)
+[Скачать файл .rsf](https://github.com/alekseimedved/design-2018/blob/master/kursach.rsf)
 
 ## Лабораторная работа 5
 
@@ -62,6 +57,10 @@ in progress
   * Репозиторий кода на сервере.
   
 ### Разработка диаграмм в RAMUS - декомпозиция всех автоматизируемых блоков в DFD
-in progress
+* Декомпозиция IDEF0 блока А1: "Подача заявки"
+![](https://github.com/alekseimedved/design-2018/blob/master/03_A1.png)
+* Декомпозиция IDEF0 блока А3: "Проверка работоспособности ПК"
+![](https://github.com/alekseimedved/design-2018/blob/master/05_A3.png)
 
+## Лабораторная работа 6
 
