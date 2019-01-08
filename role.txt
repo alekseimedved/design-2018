@@ -1,0 +1,24 @@
+﻿@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Роли"
+
+class People as "Люди"
+
+class Staff as "Сотрудники"
+
+class Students as "Студенты"
+
+Entity <|-- People 
+
+People <|-- Staff
+
+People <|-- Students
+
+hide members
+hide circle
+hide methods
+@enduml
