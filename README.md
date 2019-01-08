@@ -69,12 +69,13 @@
 [Код UML для потоков](https://github.com/alekseimedved/design-2018/blob/master/potok.txt)
 ### Завершение идентификации всех ролей
 * Построение ERD (диаграммы классов без атрибутов) для всех ролей
+![]
 ![](https://github.com/alekseimedved/design-2018/blob/master/z2.png)
 [Код UML для ролей](https://github.com/alekseimedved/design-2018/blob/master/role.txt)
 ### Завершение идентификации всех модулей
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей
 ![](https://github.com/alekseimedved/design-2018/blob/master/z3.png)
-[Код UML для модулей](https://github.com/alekseimedved/design-2018/blob/master/module.txt)
+[Код UML для модулей](https://github.com/alekseimedved/design-2018/blob/master/method.txt)
 
 
 ## Курсовой проект (in progress)
