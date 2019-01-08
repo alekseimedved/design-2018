@@ -1,5 +1,9 @@
 # Медведь А.Я. ИДБ-15-12
 
+## Курсовой проект
+
+[Курсовая работа](https://github.com/alekseimedved/design-2018/blob/master/kursov.docx)
+
 ## Лабораторная работа 1
 ### IDEF0 модель
 * [Ссылка на IDEF0 модель в формате .rsf](https://github.com/alekseimedved/design-2018/blob/master/laba1.rsf)
