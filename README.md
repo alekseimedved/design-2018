@@ -62,7 +62,7 @@
 * Декомпозиция DFD блока А3: "Проверка работоспособности ПК"
 ![](https://github.com/alekseimedved/design-2018/blob/master/05_A3.png)
 
-## Лабораторная работа 6 (in progress)
+## Лабораторная работа 6
 ### Завершение идентификации всех потоков
 * Построение ERD (диаграммы классов без атрибутов) для всех потоков
 ![](https://github.com/alekseimedved/design-2018/blob/master/z1.png)
@@ -77,6 +77,6 @@
 [Код UML для модулей](https://github.com/alekseimedved/design-2018/blob/master/method.txt)
 
 
-## Курсовой проект (in progress)
+## Курсовой проект
 
 [Курсовая работа](https://github.com/alekseimedved/design-2018/blob/master/kursov.docx)
